@@ -1,4 +1,4 @@
-baseurl = "https://harryharry22.github.io/teamwebage5" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://harryharry22.github.io/teamwebpage5" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Universal"
 theme = "hugo-universal-theme"
 #themesDir = "../.."
@@ -37,25 +37,25 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Linux"
     identifier = "menu.linux"
-    url        = "/linux/"
+    url        = "/teamwebpage5/linux/new-post-1/"
     weight     = 2
 
 [[menu.main]]
     name       = "CONTAINER"
     identifier = "menu.CONTAINER"
-    url        = "/CONTAINER/"
+    url        = "/teamwebpage5/CONTAINER/new-post-1/"
     weight     = 3
 
     [[menu.main]]
     name       = "GIT"
     identifier = "menu.git"
-    url        = "/git/"
+    url        = "/teamwebpage5/GIT/new-post-1/"
     weight     = 4
 
     [[menu.main]]
     name       = "WEB"
     identifier = "menu.web"
-    url        = "/web/"
+    url        = "/teamwebpage5/WEB/new-post-1/"
     weight     = 5
 
 # Top bar social links menu
